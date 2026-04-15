@@ -52,7 +52,7 @@ jobs:
           password: ${{ secrets.SMTP_PASSWORD }}
           subject: Jekyll Deployment Successful - ${{ github.repository }}
           body: |
-            🚀 Jekyll Deployment Complete!
+            🚀 Jekyll Deployment Complete!!!
             
             ✅ Status: SUCCESS
             
